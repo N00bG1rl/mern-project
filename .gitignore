@@ -1,0 +1,12 @@
+#Dependencies
+node_modules
+
+#Environment
+.env
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Personal text files
+mern-project.pages

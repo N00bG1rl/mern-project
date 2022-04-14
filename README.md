@@ -26,14 +26,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
-
-### `npm install`
+In the project root directory, you can run:
 
 ### `npm run server`
 
-Runs the app in the development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+### `npm run client`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+Runs the server in the development mode.\
+Open [http://localhost:5000](http://localhost:5000) to view it in your browser.

@@ -31,7 +31,6 @@ function Ticket() {
 		state => state.tickets
 	)
 	const { notes, isLoading: notesIsLoading } = useSelector(state => state.notes)
-	console.log(notes)
 
 	const dispatch = useDispatch()
 	const navigate = useNavigate()

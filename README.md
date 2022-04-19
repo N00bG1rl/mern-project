@@ -14,11 +14,11 @@ April 13, 2022
 
 # View on browser
 
-## []()
+## [https://infinite-oasis-14895.herokuapp.com/](https://infinite-oasis-14895.herokuapp.com/)
 
 # View as image
 
-![github](./public/github.png)
+![github](./frontend/public/github.png)
 
 # Getting Started with Create React App
 
